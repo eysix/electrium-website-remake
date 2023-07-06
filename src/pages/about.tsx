@@ -1,6 +1,7 @@
 import Image from 'next/image'
 
 import '../styles/about.scss'
+//hi
 
 export default function Home() {
     return (
